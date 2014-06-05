@@ -1,0 +1,46 @@
+Sprint 1: 
+
+Scrummaster: Ilham Maulana <12111117>
+
+Sprint 2:
+
+
+Sprint 3: 
+
+Progress Harian
+===================
+hari - 1
+
+Anggota 1 : Muhammad syahrizal
+1. melakukan clone
+2. Kendala pada kolaborasi
+
+Anggota : Irvan
+1. melakukan clone
+2. kendala pada kolaborasi
+
+===================
+
+hari - 2
+
+Anggota 1 : Muhammad syahrizal
+1. Mengerjakan Slide Masa Kecil Walt Disney
+2. Kendala pada kolaborasi
+
+Anggota : Irvan
+1. Mengerjakan Slide Masa Remaja Walt Disney
+2. kendala pada kolaborasi
+
+===================
+
+hari - 3
+
+Anggota 1 : Muhammad syahrizal
+1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Tidak ada kendala
+
+Anggota : Irvan
+1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Tidak ada kendala
+
+===================
