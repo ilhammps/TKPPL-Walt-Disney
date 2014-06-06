@@ -4,6 +4,7 @@ Scrummaster: Ilham Maulana <12111117>
 
 Sprint 2:
 
+Scrum Master: Muhammad syahrizal <121112392>
 
 Sprint 3: 
 
@@ -15,9 +16,13 @@ Anggota 1 : Muhammad syahrizal
 1. melakukan clone
 2. Kendala pada kolaborasi
 
-Anggota : Irvan
+Anggota 2 : Irvan
 1. melakukan clone
 2. kendala pada kolaborasi
+
+Anggota 3 : Ilham Maulana
+1. Mulai membuat Repository
+2. Kendala pada kolaborasi
 
 ===================
 
@@ -27,9 +32,13 @@ Anggota 1 : Muhammad syahrizal
 1. Mengerjakan Slide Masa Kecil Walt Disney
 2. Kendala pada kolaborasi
 
-Anggota : Irvan
+Anggota 2 : Irvan
 1. Mengerjakan Slide Masa Remaja Walt Disney
 2. kendala pada kolaborasi
+
+Anggota 3 : Ilham Maulana
+1. Mengerjakan Laugh-O Grams studio
+2. Tidak ada kendala
 
 ===================
 
@@ -39,8 +48,60 @@ Anggota 1 : Muhammad syahrizal
 1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
 2. Tidak ada kendala
 
-Anggota : Irvan
+Anggota 2 : Irvan
 1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Tidak ada kendala
+
+Anggota 3 : Ilham Maulana
+1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Tidak ada kendala
+
+===================
+
+hari - 4
+
+Anggota 1 : Muhammad syahrizal
+1. mengerjakan cerita tentang masa kecil
+2. Tidak ada kendala
+
+Anggota 2 : Irvan
+1. Menyelesaikan Slide Masa Remaja Walt Disney
+2. Tidak ada kendala
+
+Anggota 3 : Ilham Maulana
+1. Menyelesaikan hubungan disney dan holiwod
+2. Tidak ada kendala
+
+===================
+
+hari - 5
+
+Anggota 1 : Muhammad syahrizal
+1. Mengerjakan slide cerita tentang Zaman Keemasan Animasi Dan Memperbaiki slide cerita tentang masa kecil
+2. Tidak ada kendala
+
+Anggota 2 : Irvan
+1. Mengerjakan Slide Setelah Perang
+2. Tidak ada kendala
+
+Anggota 3 : Ilham Maulana
+1. Mengerjakan slide cerita tentang Selama perang dunia II
+2. Tidak ada kendala
+
+===================
+
+hari - 6
+
+Anggota 1 : Muhammad syahrizal
+1. 
+2. Tidak ada kendala
+
+Anggota 2 : Irvan
+1. 
+2. Tidak ada kendala
+
+Anggota 3 : Ilham Maulana
+1. 
 2. Tidak ada kendala
 
 ===================
