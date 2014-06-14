@@ -8,6 +8,8 @@ Scrum Master: Muhammad syahrizal <121112392>
 
 Sprint 3: 
 
+Scrum Master: Irvan <121112007>
+
 Progress Harian
 ===================
 hari - 1
@@ -183,3 +185,20 @@ Anggota 3 : Ilham Maulana
 2. Tidak ada kendala
 
 ===================
+
+hari - 12
+
+Anggota 1 : Muhammad syahrizal
+1. merapikan slide dan menambahkan yang kurang dari slide
+2. Tidak ada kendala
+
+Anggota 2 : Irvan
+1. mengedit tampilan
+2. Tidak ada kendala
+
+Anggota 3 : Ilham Maulana
+1. mengedit tampilan
+2. Tidak ada kendala
+
+===================
+
