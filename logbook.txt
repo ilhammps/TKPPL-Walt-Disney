@@ -1,3 +1,20 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:Sudah.Tiga gp
+Judul Topik:Walt Disney
+Alamat Github: https://github.com/ilhammps/TKPPL-Walt-Disney
+Alamat Trello: https://trello.com/b/II0RZHR4/walt-disney
+Anggota 1:
+	Nama: Ilham Maulana
+	NIM: 12.111.1117
+Anggota 2:
+	Nama: Muhammad Syahrizal
+	NIM: 12.111.2392
+Anggota 3:
+	Nama: Irvan
+	NIM: 12.111.2007
+=======================
 Sprint 1: 
 
 Scrummaster: Ilham Maulana <12111117>
@@ -31,174 +48,207 @@ Anggota 3 : Ilham Maulana
 hari - 2
 
 Anggota 1 : Muhammad syahrizal
-1. Mengerjakan Slide Masa Kecil Walt Disney
-2. Kendala pada kolaborasi
+1. Kemarin saya melakukan clone
+2. Hari ini saya Mengerjakan Slide Masa Kecil Walt Disney
+3. Kendala pada kolaborasi
 
 Anggota 2 : Irvan
-1. Mengerjakan Slide Masa Remaja Walt Disney
-2. kendala pada kolaborasi
+1. Kemarin saya melakukan clone
+2. Hari ini saya Mengerjakan Slide Masa Remaja Walt Disney
+3. kendala pada kolaborasi
 
 Anggota 3 : Ilham Maulana
-1. Mengerjakan Laugh-O Grams studio
-2. Tidak ada kendala
+1. Kemarin saya Mulai membuat Repository
+2. Hari ini saya Mengerjakan Laugh-O Grams studio
+3. Tidak ada kendala
 
 ===================
 
 hari - 3
 
 Anggota 1 : Muhammad syahrizal
-1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
-2. Tidak ada kendala
+1. kemarin saya Mengerjakan Slide Masa Kecil Walt Disney
+2. Hari ini saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
-2. Tidak ada kendala
+1. Kemarin saya Mengerjakan Slide Masa Remaja Walt Disney
+2. Hari ini saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Mengatasi masalah kolaborasi dan melakukan Push dan Pull
-2. Tidak ada kendala
+1. Kemarin saya Mengerjakan Laugh-O Grams studio
+2. Hari ini saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+3. Tidak ada kendala
 
 ===================
 
 hari - 4
 
 Anggota 1 : Muhammad syahrizal
-1. mengerjakan cerita tentang masa kecil
-2. Tidak ada kendala
+1. Kemarin saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Hari ini saya mengerjakan cerita tentang masa kecil
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Menyelesaikan Slide Masa Remaja Walt Disney
-2. Tidak ada kendala
+1. Kemarin saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Hari ini saya menyelesaikan Slide Masa Remaja Walt Disney
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Menyelesaikan hubungan disney dan holiwod
-2. Tidak ada kendala
+1. Kemarin saya Mengatasi masalah kolaborasi dan melakukan Push dan Pull
+2. Hari ini saya Menyelesaikan hubungan disney dan holiwod
+3. Tidak ada kendala
 
 ===================
 
 hari - 5
 
 Anggota 1 : Muhammad syahrizal
-1. Mengerjakan slide cerita tentang Zaman Keemasan Animasi Dan Memperbaiki slide cerita tentang masa kecil
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan cerita tentang masa kecil
+2. Hari ini saya Mengerjakan slide cerita tentang Zaman Keemasan Animasi Dan Memperbaiki      slide cerita tentang masa kecil
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Mengerjakan Slide Setelah Perang
-2. Tidak ada kendala
+1. Kemarin saya menyelesaikan Slide Masa Remaja Walt Disney
+2. Hari ini saya Mengerjakan Slide Setelah Perang
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Membenahi erorr pada slide
-2. Kendala pada merge dan koneksi internet
+1. Kemarin saya Menyelesaikan hubungan disney dan holiwod
+2. Hari ini saya Membenahi erorr pada slide
+3. Kendala pada merge dan koneksi internet
 
 ===================
 
 hari - 6
 
 Anggota 1 : Muhammad syahrizal
-1. Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi dan merapikan setiap slide
-2. Tidak ada kendala
+1. Kemarin saya saya Mengerjakan slide cerita tentang Zaman Keemasan Animasi Dan 	Memperbaiki slide cerita tentang masa kecil
+2. Hari ini saya Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi dan 	merapikan setiap slide
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Mengedit setelah perang
-2. Tidak ada kendala
+1. Kemarin saya Mengerjakan Slide Setelah Perang
+2. Hari ini saya Mengedit setelah perang
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Mengedit slide perang dunia 2
-2. tidak ada kendalanya
+1. Kemarin saya Membenahi erorr pada slide
+2. Hari ini saya Mengedit slide perang dunia 2
+3. tidak ada kendalanya
 ===================
 
 hari - 7
 
 Anggota 1 : Muhammad syahrizal
-1. Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi dan merapikan setiap slide
-2. Tidak ada kendala
+1. Kemarin saya Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi dan 		merapikan setiap slide
+2. Hari ini saya akan Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi 	dan merapikan setiap slide
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Mengedit setelah perang
-2. Tidak ada kendala
+1. Kemarin saya Mengedit setelah perang
+2. Hari ini saya akan Mengedit setelah perang
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Tidak melakukan apa-apa
-2. kendalanya baterai laptop sudah habis dan paket internet sudah habis
+1. Kemarin saya Mengedit slide perang dunia 2
+2. Hari ini saya Tidak melakukan apa-apa
+3. kendalanya baterai laptop sudah habis dan paket internet sudah habis
 
 ===================
 
 hari - 8
 
 Anggota 1 : Muhammad syahrizal
-1. Mengerjakan slide cerita tentang Taman Bermain dan merapikan setiap slide
-2. Tidak ada kendala
+1. Kemarin saya akan Melanjutkan mengerjakan slide cerita tentang Zaman Keemasan Animasi 		dan merapikan setiap slide
+2. Hari ini saya Mengerjakan slide cerita tentang Taman Bermain dan merapikan setiap slide
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. Mengedit setelah perang
-2. Tidak ada kendala
+1. Kemarin saya akan Mengedit setelah perang
+2. Hari ini saya Mengedit setelah perang
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. Mengedit Cerita tenteng Perang dunia II
-2. Tidak ada kendala
+1. Kemarin saya Tidak melakukan apa-apa
+2. Hari ini saya Mengedit Cerita tenteng Perang dunia II
+3. Tidak ada kendala
 
 ===================
 hari - 9
 
 Anggota 1 : Muhammad syahrizal
-1. kehidupan pribadi
-2. Tidak ada kendala
+1. Kemarin saya Mengerjakan slide cerita tentang Taman Bermain dan merapikan setiap slide
+2. Hari ini saya mengerjakan kehidupan pribadi
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. penghargaan
-2. Tidak ada kendala
+1. Kemarin saya Mengedit setelah perang
+2. Hari ini saya mengerjakan slide penghargaan
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. tidak mengerjakan apa apa
-2. Tidak ada kendala
+1. Kemarin saya Mengedit Cerita tenteng Perang dunia II
+2. Hari ini saya tidak mengerjakan apa apa
+3. Tidak ada kendala
 
 ===================
 
 hari - 10
 
 Anggota 1 : Muhammad syahrizal
-1. kehidupan pribadi
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan kehidupan pribadi
+2. Hari ini saya melanjutkan slide kehidupan pribadi
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. penghargaan
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan slide penghargaan
+2. Hari ini saya mengerjakan slide penghargaan
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. mengedit tampilan
-2. Tidak ada kendala
+1. kemarin saya tidak mengerjakan apa apa
+2. Hari ini saya mengedit tampilan
+3. Tidak ada kendala
 
 ===================
 
 hari - 11
 
 Anggota 1 : Muhammad syahrizal
-1. kehidupan pribadi
-2. Tidak ada kendala
+1. Kemarin saya tidak mengerjakan apa apa
+2. Hari ini saya mengerjakan slide kehidupan pribadi
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. penghargaan
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan slide penghargaan
+2. Hari ini saya mengerjakan lanjutan slide penghargaan
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. mengedit tampilan
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan slide penghargaan
+2. Hari ini saya melanjutkan mengedit tampilan
+3. Tidak ada kendala
 
 ===================
 
 hari - 12
 
 Anggota 1 : Muhammad syahrizal
-1. merapikan slide dan menambahkan yang kurang dari slide
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan slide kehidupan pribadi
+2. Hari ini saya merapikan slide dan menambahkan yang kurang dari slide
+3. Tidak ada kendala
 
 Anggota 2 : Irvan
-1. mengedit tampilan
-2. Tidak ada kendala
+1. Kemarin saya mengerjakan lanjutan slide penghargaan
+2. Hari ini saya mengedit tampilan
+3. Tidak ada kendala
 
 Anggota 3 : Ilham Maulana
-1. mengedit tampilan
-2. Tidak ada kendala
+1. Kemarin saya melanjutkan mengedit tampilan
+2. Hari ini saya kembali mengedit tampilan
+3. Tidak ada kendala
 
 ===================
 
